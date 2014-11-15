@@ -1,0 +1,19 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "parksj92@gmail.com",
+    "longName": "AWESOMEPROJECTONE",
+    "projectType": "native",
+    "resources": {
+        "media": []
+    },
+    "shortName": "AWESOMEPROJECTONE",
+    "uuid": "41b8e823-ac86-494e-94df-d2a6fad29830",
+    "versionCode": 1,
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": true
+    }
+}
